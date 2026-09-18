@@ -1,12 +1,14 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">
-  <b>Hi there, I'm </b>
-  <a href="https://github.com/hdezdav">Dav</a>
+  Hello!
+  <br>
+  And welcome to my GitHub.
+  <br><br>
+  My name is David, but you can call me
+  <a href="https://github.com/lawxr">Law</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
-<br>
 
 <!-- Profile Trophies -->
 
@@ -17,8 +19,8 @@
 <!-- Social Links -->
 
 <div align="center">
-  <a href="https://davidhdez.com">
-    <img src="https://img.shields.io/badge/Portfolio-davidhdez.com-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://lawx.uk">
+    <img src="https://img.shields.io/badge/Portfolio-lawx.uk-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
 
