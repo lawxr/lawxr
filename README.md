@@ -1,7 +1,18 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+  alt="Neon divider"
+/>
 
-<h1 align="center">
-  Hello!
+<img
+  src="https://static.wikia.nocookie.net/breakingbad/images/5/5c/Los_Pollos.png/revision/latest?cb=20220928160229"
+  width="110"
+  align="left"
+  alt="Los Pollos Hermanos"
+/>
+
+<h1>
+  Hello! 
   <br>
   And welcome to my GitHub.
   <br><br>
@@ -9,6 +20,14 @@
   <a href="https://github.com/lawxr">Law</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+
+<br clear="left" />
+
+<img
+  src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+  width="100%"
+  alt="Neon divider"
+/>
 
 <!-- Profile Trophies -->
 
